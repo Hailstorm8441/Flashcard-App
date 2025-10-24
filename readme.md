@@ -8,5 +8,6 @@ Just add items in the same format that the other two cards in the data.json file
 
 This probably isn't the best app because it is so inaccesable, but I mainly created it for my own benefit.
 
-To run the program just clone the repo and run the python file in 
+To run the program just clone the repo and run the main.py file
+
 
